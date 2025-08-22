@@ -16,7 +16,9 @@ banner = r"""
 """
 
 print(banner)
-📹 DEMO 🤏📹 : :[Copy and sharing by DEMO]🤏
+
+print("""
+   📹 DEMO 🤏📹 : :[Copy and sharing by DEMO]🤏
                       [😋]cctv hack[😋]
 * Copy : DEMO🤏
 * Hacking biggner gp  : https://t.me/biggner404
